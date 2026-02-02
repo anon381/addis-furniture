@@ -39,10 +39,10 @@ export default function RootLayout({
                   Collections
                 </a>
                 <a href="#about" className="hover:text-slate-900">
-                  about
+                  About
                 </a>
                 <a href="#contact" className="hover:text-slate-900">
-                  contact
+                  Contact
                 </a>
               </nav>
             </div>
