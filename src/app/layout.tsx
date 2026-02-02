@@ -32,11 +32,11 @@ export default function RootLayout({
           <header className="border-b border-slate-200 bg-white/80 backdrop-blur sticky top-0 z-10">
             <div className="mx-auto max-w-5xl px-6 py-4 flex items-center justify-between">
               <span className="text-lg font-semibold tracking-tight">
-                Addis Furniture
+                Addis-Furniture
               </span>
               <nav className="hidden gap-6 text-sm text-slate-600 md:flex">
                 <a href="#collections" className="hover:text-slate-900">
-                  collections
+                  Collections
                 </a>
                 <a href="#about" className="hover:text-slate-900">
                   about
