@@ -36,13 +36,13 @@ export default function RootLayout({
               </span>
               <nav className="hidden gap-6 text-sm text-slate-600 md:flex">
                 <a href="#collections" className="hover:text-slate-900">
-                  Collections
+                  collections
                 </a>
                 <a href="#about" className="hover:text-slate-900">
-                  About
+                  about
                 </a>
                 <a href="#contact" className="hover:text-slate-900">
-                  Contact
+                  contact
                 </a>
               </nav>
             </div>
